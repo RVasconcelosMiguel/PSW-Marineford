@@ -5,7 +5,7 @@ Dive into the world of naval warfare with Marineford and may the best admiral pr
 
 ## Download
 **Download** the repository to the local machine executing the following command in the terminal:
-- git clone https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5.git
+- git clone https://github.com/RVasconcelosMiguel/PSW-Marineford.git
 ## Firewall
 It is necessary to allow the application through the **firewall** to enable its proper functioning and network communication. 
 ## Start Game
