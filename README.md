@@ -9,7 +9,7 @@ Dive into the world of naval warfare with Marineford and may the best admiral pr
 ## Firewall
 It is necessary to allow the application through the **firewall** to enable its proper functioning and network communication. 
 ## Start Game
-To **launch** the game, open the "Marineford.exe" executable located in "executableFolder" within the "a01_5" folder you downloaded during the initial step.
-- a01_5\executableFolder\Marineford.exe
+To **launch** the game, open the "Marineford.exe" executable located in "executableFolder" within the "PSW-Marineford" folder you downloaded during the initial step.
+- PSW-Marineford\executableFolder\Marineford.exe
 
 
