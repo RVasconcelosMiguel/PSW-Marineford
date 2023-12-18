@@ -3,22 +3,13 @@ Welcome to Marineford, a thrilling 2-player Battleship game designed and impleme
 
 Dive into the world of naval warfare with Marineford and may the best admiral prevail! ⚓️
 
-## The Wiki page includes de following contents:
-
-#### [Instalation](https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5/-/wikis/Installation-Instructions)
-
-#### Diagrams
-* [Class Diagram](https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5/-/wikis/UML-Class-Diagram)
-* [Use Case Diagram](https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5/-/wikis/UML-Use-Case-Diagram)
-* [State Diagram](https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5/-/wikis/UML-State-Diagram)
-* [Sequence Diagram](https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5/-/wikis/UML-Sequence-Diagram)
-* [Component Diagram](https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5/-/wikis/UML-Component-Diagram)
-* [Deployment Diagram](https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5/-/wikis/UML-Deployment-Diagram)
-#### UI Design
-* [UI Mockups](https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5/-/wikis/UI-Mockups) (This page covers both UI Mockups and Navigation Tree)
-#### Other contents
-* [Product Backlog](https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5/-/wikis/Product-Backlog-(User-Stories))
-* [Acceptance test](https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5/-/wikis/Acceptance-Tests)
-* [Product Vision](https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5/-/wikis/Product-Vision)
+## Download
+**Download** the repository to the local machine executing the following command in the terminal:
+- git clone https://git.fe.up.pt/psw_23_24/1meec_a01/a01_5.git
+## Firewall
+It is necessary to allow the application through the **firewall** to enable its proper functioning and network communication. 
+## Start Game
+To **launch** the game, open the "Marineford.exe" executable located in "executableFolder" within the "a01_5" folder you downloaded during the initial step.
+- a01_5\executableFolder\Marineford.exe
 
 
