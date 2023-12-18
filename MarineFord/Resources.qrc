@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>game_background.png</file>
+        <file>game_background_2.png</file>
+        <file>fail.png</file>
+        <file>hit.png</file>
+        <file>shipdown.png</file>
+        <file>scull.png</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file>background.mp3</file>
+        <file>shoot.mp3</file>
+        <file>agua.mp3</file>
+        <file>victory.mp3</file>
+        <file>defeat.mp3</file>
+    </qresource>
+</RCC>
